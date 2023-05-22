@@ -1,0 +1,1 @@
+model_config = {"model_bin_file_nm":'doc_model', "model_name":"doc_model_1"}

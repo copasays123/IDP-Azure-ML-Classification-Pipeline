@@ -1,0 +1,143 @@
+unique_values,counts,document
+__label__18,26,Closing Disclosure
+__label__113,26,Title Commitment
+__label__39,25,Form 1004 Uniform Residential Appraisal
+__label__114,23,Title Policy
+__label__38,21,Form 1003 Uniform Residential Loan Application
+__label__104,18,Schedule K-1 - Form 1120S
+__label__46,18,Form 1120
+__label__119,18,Unclassified
+__label__87,17,Notice of Flood Disclosure
+__label__116,16,USA Patriot Act Information Disclosure
+__label__4,15,Affidavit of Occupancy
+__label__26,15,Credit_Score_Disclosure
+__label__79,15,MI Disclosure
+__label__58,14,Heloc Disclosure
+__label__82,14,Mortgage 1-4 Family Rider
+__label__108,14,Standard Flood Insurance Policy
+__label__138,14,W-9
+__label__22,14,Conditional Commitment Direct Endorsement Statement of Appraised Value
+__label__66,14,Inter Vivos Revocable Trust Mortgage Rider
+__label__2,13,Acknowledgement of Receipt of Homeownership Counseling Notice
+__label__95,13,Property Inspection Waiver
+__label__13,13,"Borrower Identification (DL, Passport, Green card)"
+__label__71,13,Lease Renewal Agreement
+__label__54,13,HUD-1 - Settlement Statement
+__label__57,13,Hazard Insurance
+__label__105,13,Security Instrument
+__label__123,13,VA Addendum to Uniform Residential Loan Application
+__label__20,13,Compliance Agreement
+__label__97,13,QM Findings
+__label__52,13,GUS Findings
+__label__65,13,Inspection
+__label__32,13,Earnest Money Doc
+__label__93,13,Payoff
+__label__33,13,FHA Amendatory Clause
+__label__78,13,MI Certificate
+__label__9,13,Award Letter
+__label__80,13,Master Insurance Policy
+__label__139,13,Warranty deed
+__label__107,13,Service Provider List
+__label__12,13,Borrower Acknowledgement Of Federal Disclosures
+__label__40,13,Form 1040 - Schedule 1
+__label__101,13,Rental Agreement
+__label__0,13,Ability to Repay or QM
+__label__10,13,Balloon Rider
+__label__81,13,Mavent
+__label__70,13,LP-Loan Prospector
+__label__124,12,VA Certificate of Eligibility
+__label__11,12,Bank Statement
+__label__109,12,Subordination Agreement
+__label__3,12,Addendum to Real Estate Contract
+__label__89,12,Notice to Home Loan Applicant
+__label__90,12,Notice to Homeowner
+__label__5,12,Amortization Schedule
+__label__56,12,Handout Sheet
+__label__91,12,Occupancy And Financial Statement
+__label__6,12,Annual Tax And Interest Statement
+__label__50,12,Form SSA-89
+__label__41,12,Form 1040 - Schedule B
+__label__21,12,Compliance Inspection Report (VA form 26-1839)
+__label__115,12,Trustees deed
+__label__73,12,Loan Estimate
+__label__140,12,Wire instructions
+__label__122,12,VA 26-8937 - Verification of VA Benefits
+__label__60,12,Home loan kit
+__label__112,12,Tax Returns
+__label__100,12,Real Estate Contract
+__label__42,12,Form 1040 - Schedule C-EZ
+__label__48,12,Form 4506T_C
+__label__34,12,FHA Conditional Commitment Letter
+__label__28,12,Disclosures Regarding Sales of Insurance
+__label__25,12,Credit Report Authorization
+__label__27,12,DU-Desktop Underwriting
+__label__84,12,Mortgage Rider
+__label__111,12,Tax Return Transcript
+__label__51,12,FraudGuard Report
+__label__31,12,Early Arm Disclosure Statement
+__label__36,12,Fixed Interest Rate Rider
+__label__14,12,Borrower's Certification & Authorization
+__label__47,12,Form 1120S
+__label__16,12,Certificate of Non Influence
+__label__75,12,Loan Participant Analysis
+__label__141,12,"deeds(QC deed,)"
+__label__86,12,Note
+__label__7,12,Appraisal Delivery
+__label__45,12,Form 1065
+__label__99,11,Quit Claim Deed
+__label__61,11,IRS Transcript Consent Document
+__label__126,11,VA Comparison Statement
+__label__23,11,Conditional commitment letter - Form 3555-18
+__label__132,11,VA Report & Certification of Loan Disbursement
+__label__59,11,Home Ownership Councelling Notice
+__label__121,11,VA - Lenders Notice of Value
+__label__128,11,VA Guaranteed Loan And Assumption Policy Rider
+__label__44,11,Form 1040 - Schedule F
+__label__37,11,Flood Insurance Coverage Subject to Change Disclosure
+__label__125,11,VA Child Care Statement
+__label__67,11,Invoice for title charges or Invoice
+__label__120,10,Underwriting And Transmittal Summary - 1008
+__label__136,10,Verification of Deposit
+__label__83,10,Mortgage Condominium Rider
+__label__94,10,Planned Unit Development Rider
+__label__76,10,Loan guarantee - Form 3555-21
+__label__15,10,Certificate Of Completion
+__label__64,10,Initial Escrow Account Disclosure Statement
+__label__137,10,W-2
+__label__135,10,Verbal Verification of Employment Co-Borrower
+__label__17,10,Change In Circumstance
+__label__24,10,Credit Report
+__label__133,10,VA_ Lender Notice
+__label__63,10,Income calculation Worksheet
+__label__62,9,Important Notice To Homebuyers
+__label__130,9,VA Loan Summary Sheet
+__label__74,9,Loan Option Presentation Acknowldgement
+__label__85,9,Mortgage Statement
+__label__49,9,Form SSA-1099
+__label__77,9,Lock Interest Rate & Fee Agreement
+__label__53,9,Gift Letter
+__label__98,9,Qualified Mortgage Worksheet
+__label__8,9,Appraisal Invoice
+__label__127,9,VA Counselling Checklist
+__label__117,9,USA Patriot Act Information Form
+__label__69,9,LOE (Letter of Explanation)
+__label__43,8,Form 1040 - Schedule E
+__label__92,8,Occupancy affidavitname & sig affidavit
+__label__68,8,LDP Report
+__label__19,8,Completion Report - Appraisal
+__label__72,8,Loan Details
+__label__55,8,HUD-92900-LT - Loan Transmittal
+__label__129,8,VA Loan Analysis
+__label__134,8,Verbal Verification of Employment Borrower
+__label__103,7,Sales Contract
+__label__110,7,Tangible Net Benefit Disclosure
+__label__30,7,E-sign docs
+__label__1,7,Acknowledgement of Intent to Proceed
+__label__88,7,Notice of right to Cancel
+__label__29,7,Divorce Decree
+__label__102,7,SSN Verification
+__label__131,7,VA Relationship Letter
+__label__118,7,USPS
+__label__96,6,Property Tax
+__label__35,6,First Payment Letter
+__label__106,6,Sentinel ReportCompliance report
